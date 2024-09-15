@@ -1,0 +1,11 @@
+Instalación
+1. Clone este repositorio:
+   git clone https://github.com/tuusuario/blockchain-pow-simulator.git
+2. seguido de los siguientes comandos:
+cd blockchain-pow-simulator
+python gui.py
+
+Uso
+-La interfaz gráfica te permite añadir nuevos bloques a la cadena de bloques simulada.
+-Ingresa los datos de las transacciones en la GUI y el bloque se generará automáticamente con PoW.
+-Verifica la cadena de bloques desde la GUI.

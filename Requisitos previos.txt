@@ -1,0 +1,3 @@
+## Requisitos
+- Python 3.x
+- tkinter (para la interfaz gráfica)
